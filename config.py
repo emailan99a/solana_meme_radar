@@ -1,5 +1,7 @@
-PORT = 8765
-HOST = "127.0.0.1"
+import os
+
+PORT = int(os.environ.get("PORT", 8765))
+HOST = "0.0.0.0"
 
 MIN_AGE_DAYS = 30
 MAX_AGE_DAYS = 365
