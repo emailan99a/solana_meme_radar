@@ -6,13 +6,16 @@ HOST = "0.0.0.0"
 
 # Radar Filters
 SEARCH_TERMS = [
-    "meme",
     "dog",
     "cat",
     "pepe",
+    "bonk",
+    "meme",
     "ai",
     "sol",
-    "coin",
+    "pump",
+    "moon",
+    "frog"
 ]
 
 MIN_AGE_DAYS = 30
