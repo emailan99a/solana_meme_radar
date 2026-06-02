@@ -1,9 +1,0 @@
-Cara menyalakan server lokal:
-
-cd ~/Documents/Dev_Projects/solana_meme_radar
-
-cd ~/Documents/Dev_Projects/solana_meme_radar
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python3 app.py
